@@ -1,4 +1,4 @@
-package com.bayonet3
+package com.eventapp
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface bayonet3Tests : XCTestCase
+@interface eventappTests : XCTestCase
 
 @end
 
-@implementation bayonet3Tests
+@implementation eventappTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
